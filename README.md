@@ -1,4 +1,4 @@
-Hi 👋 My name is Safiullah Saif
+Hi there! My name is Safiullah Saif
 ===============================
 
 Software Engineer
@@ -12,7 +12,7 @@ As a software engineering student driven by curiosity and innovation, I excel in
 * 🧠  I'm learning Next.JS, BootStrap, Swift and SpringBoot
 * 🤝  I'm open to collaborating on any interesting project ideas!
 
-### Skills
+### Tech Stack
 
 
 <p align="left">
@@ -20,6 +20,6 @@ As a software engineering student driven by curiosity and innovation, I excel in
 </p>
 
 
-### Socials
+### 🪩 Socials
 
 <p align="left"> <a href="https://www.github.com/Safi0919" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/safi_0919" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/safiullahsaif/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
