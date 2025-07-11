@@ -8,8 +8,8 @@ As a software engineering student driven by curiosity and innovation, I excel in
 
 * 🌍  I'm based in San Jose, CA, United States
 * ✉️  You can contact me at [safisaif4444@gmail.com](mailto:safisaif4444@gmail.com)
-* 🚀  I'm currently working on [WorkMan](https://github.com/Safi0919/Fitness_Tracker)
-* 🧠  I'm learning Next.JS, BootStrap, Swift and SpringBoot
+* 🚀  I'm currently working on [WorkPass](https://github.com/Safi0919/WorkPass)
+* 🧠  I'm learning Regression Model, AWS, and Postman!
 * 🤝  I'm open to collaborating on any interesting project ideas!
 
 
