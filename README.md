@@ -54,27 +54,25 @@
 </td>
 <td valign="top">
 
-```
-OS: ....................... macOS, Linux
-Kernel: .................... Software Engineer
-Host: ....................... eGain Corporation
-IDE: ........................ VS Code, IntelliJ, Cursor
-Uptime: ..................... 22 years
-
-Languages.Programming: ..... Python, Java
-Languages.Computer: ........ JSON, YAML
-Languages.Focus: ............ APIs, Backend Engineering
-
-Currently.Building: ........ !<CONFIDENTIAL>!
-Currently.Learning: ......... Regression Models, AWS
-Open.To: .................... Collaborating on interesting ideas
-──────────────────────────────────────────
-Contact
-Email: ...................... safisaif4444@gmail.com
-LinkedIn: ................... linkedin.com/in/safiullahsaif
-GitHub: ...................... @Safi0919
-Portfolio: ................... safi0919.github.io
-```
+$\color{#11c3f5}{\mathfrak{OS}}$: ....................... $\color{#f783d8}{\mathfrak{macOS, Linux}}$<br>
+$\color{#11c3f5}{\textsf{Kernel}}$: .................... $\color{#f783d8}{\textsf{Software Engineer}}$<br>
+$\color{#11c3f5}{\textsf{Host}}$: ....................... $\color{#f783d8}{\textsf{eGain Corporation}}$<br>
+$\color{#11c3f5}{\textsf{IDE}}$: ........................ $\color{#f783d8}{\textsf{VS Code, IntelliJ, Cursor}}$<br>
+$\color{#11c3f5}{\textsf{Uptime}}$: ..................... $\color{#f783d8}{\textsf{22 years}}$<br>
+<br>
+$\color{#11c3f5}{\textsf{Languages.Programming}}$: ..... $\color{#f783d8}{\textsf{Python, Java}}$<br>
+$\color{#11c3f5}{\textsf{Languages.Computer}}$: ........ $\color{#f783d8}{\textsf{JSON, YAML}}$<br>
+$\color{#11c3f5}{\textsf{Languages.Focus}}$: ............ $\color{#f783d8}{\textsf{APIs, Backend Engineering}}$<br>
+<br>
+$\color{#11c3f5}{\textsf{Currently.Building}}$: ........ $\color{#f783d8}{\textsf{!CONFIDENTIAL!}}$<br>
+$\color{#11c3f5}{\textsf{Currently.Learning}}$: ......... $\color{#f783d8}{\textsf{Regression Models, AWS}}$<br>
+$\color{#11c3f5}{\textsf{Open.To}}$: .................... $\color{#f783d8}{\textsf{Collaborating on interesting ideas}}$<br>
+──────────────────────────────────────────<br>
+$\color{#11c3f5}{\textsf{Contact}}$<br>
+$\color{#11c3f5}{\textsf{Email}}$: ...................... safisaif4444@gmail.com<br>
+$\color{#11c3f5}{\textsf{LinkedIn}}$: ................... $\color{#f783d8}{\textsf{linkedin.com/in/safiullahsaif}}$<br>
+$\color{#11c3f5}{\textsf{GitHub}}$: ...................... $\color{#f783d8}{\textsf{@Safi0919}}$<br>
+$\color{#11c3f5}{\textsf{Portfolio}}$: ................... $\color{#f783d8}{\textsf{safi0919.github.io}}$
 
 </td>
 </tr>
